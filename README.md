@@ -1,3 +1,7 @@
+# Mahasiswa
+Nama : Yahya Ardiyanto
+Nim  : 19.11.2818
+
 # Studi Kasus
 Aplikasi keranjang dimana user dapat menambah atau menghapus item.
 
