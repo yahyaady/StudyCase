@@ -1,5 +1,5 @@
 # Mahasiswa
-Nama : Yahya Ardiyanto
+Nama : Yahya Ardiyanto,
 Nim  : 19.11.2818
 
 # Studi Kasus
